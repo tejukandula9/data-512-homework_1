@@ -32,9 +32,12 @@ The JSON files outputted by this project are listed below. All the following jso
 This graph shows a time series of pageviews for the articles that have the lowest amount of months with data. There are some lines that don't start until halfway through the graph, this indicated this article has 0 pageviews prior to that month
   
 ## Project Sources and Licenses
-[Source Data License]('https://www.gnu.org/licenses/fdl-1.3.html')
-[Wikimedia Foundation REST API terms of use]('https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions')
-[Pageviews API Documentation]('https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews')
-[Pageviews API Endpoint]('https://wikimedia.org/api/rest_v1/#!/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end')
+[Source Data License]('www.gnu.org/licenses/fdl-1.3.html')
+
+[Wikimedia Foundation REST API terms of use]('www.mediawiki.org/wiki/REST_API#Terms_and_conditions')
+
+[Pageviews API Documentation]('wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews')
+
+[Pageviews API Endpoint]('wikimedia.org/api/rest_v1/#!/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end')
 
 
